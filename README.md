@@ -1,3 +1,5 @@
+[`在板子上使用的记录，仅供参考`](https://github.com/releung/awtk-linux-fb/blob/master/HowTO.md)
+
 # AWTK针对arm-linux平台的移植。
 
 [AWTK](https://github.com/zlgopen/awtk)是为嵌入式系统开发的GUI引擎库。
